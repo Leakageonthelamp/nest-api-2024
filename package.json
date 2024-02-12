@@ -1,8 +1,8 @@
 {
   "name": "nest-api",
   "version": "1.0.0",
-  "description": "",
-  "author": "",
+  "description": "Nest API for playground",
+  "author": "KC Leakage",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -65,5 +65,6 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
-  }
+  },
+  "packageManager": "yarn@4.1.0"
 }
